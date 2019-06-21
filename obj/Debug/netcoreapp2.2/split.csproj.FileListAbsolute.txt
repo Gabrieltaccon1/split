@@ -1,0 +1,11 @@
+C:\Users\Treinamento 4\source\repos\split\split\bin\Debug\netcoreapp2.2\split.deps.json
+C:\Users\Treinamento 4\source\repos\split\split\bin\Debug\netcoreapp2.2\split.runtimeconfig.json
+C:\Users\Treinamento 4\source\repos\split\split\bin\Debug\netcoreapp2.2\split.runtimeconfig.dev.json
+C:\Users\Treinamento 4\source\repos\split\split\bin\Debug\netcoreapp2.2\split.dll
+C:\Users\Treinamento 4\source\repos\split\split\bin\Debug\netcoreapp2.2\split.pdb
+C:\Users\Treinamento 4\source\repos\split\split\obj\Debug\netcoreapp2.2\split.csprojAssemblyReference.cache
+C:\Users\Treinamento 4\source\repos\split\split\obj\Debug\netcoreapp2.2\split.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 4\source\repos\split\split\obj\Debug\netcoreapp2.2\split.AssemblyInfoInputs.cache
+C:\Users\Treinamento 4\source\repos\split\split\obj\Debug\netcoreapp2.2\split.AssemblyInfo.cs
+C:\Users\Treinamento 4\source\repos\split\split\obj\Debug\netcoreapp2.2\split.dll
+C:\Users\Treinamento 4\source\repos\split\split\obj\Debug\netcoreapp2.2\split.pdb
